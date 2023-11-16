@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="Window Styles" value="0x800025">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Aide WINQUINT">
+		<param name="Local" value="Temp\wqhlp\accueil.htm">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Page de Synth&egrave;se">
+			<param name="Local" value="Temp\wqhlp\synthese.htm">
+			<param name="URL" value="Temp\wqhlp\synthese.htm">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Date de la course">
+				<param name="Local" value="Temp\wqhlp\SDate.htm">
+				<param name="URL" value="Temp\wqhlp\SDate.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Synth&egrave;se de 14 chevaux">
+				<param name="Local" value="Temp\wqhlp\SSynthese.htm">
+				<param name="URL" value="Temp\wqhlp\SSynthese.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Choix des bases">
+				<param name="Local" value="Temp\wqhlp\SBases.htm">
+				<param name="URL" value="Temp\wqhlp\SBases.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="G&eacute;n&eacute;ration des combinaisons">
+				<param name="Local" value="Temp\wqhlp\SGeneration.htm">
+				<param name="URL" value="Temp\wqhlp\SGeneration.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Choix de la s&eacute;lection">
+				<param name="Local" value="Temp\wqhlp\SSelection.htm">
+				<param name="URL" value="Temp\wqhlp\SSelection.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Page d'&eacute;limination">
+			<param name="Local" value="Temp\wqhlp\elimination.htm">
+			<param name="URL" value="Temp\wqhlp\elimination.htm">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Combinaisons &eacute;liminatrices">
+				<param name="Local" value="Temp\wqhlp\EElimination.htm">
+				<param name="URL" value="Temp\wqhlp\EElimination.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Commandes d'&eacute;limination">
+				<param name="Local" value="Temp\wqhlp\ECommandes.htm">
+				<param name="URL" value="Temp\wqhlp\ECommandes.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Compteurs de combinaisons">
+				<param name="Local" value="Temp\wqhlp\ECombinaisons.htm">
+				<param name="URL" value="Temp\wqhlp\ECombinaisons.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Combinaisons gagnantes">
+				<param name="Local" value="Temp\wqhlp\EArrivee.htm">
+				<param name="URL" value="Temp\wqhlp\EArrivee.htm">
+				</OBJECT>
+		</UL>
+	</UL>
+</UL>
+</BODY></HTML>

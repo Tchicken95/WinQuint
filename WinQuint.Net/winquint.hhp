@@ -1,0 +1,30 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=winquint.chm
+Contents file=winquint.hhc
+Default Window=winquint
+Default topic=Temp\wqhlp\accueil.htm
+Display compile progress=No
+Index file=winquint.hhk
+Language=0x40c Français - standard
+
+[WINDOWS]
+winquint=,"winquint.hhc","winquint.hhk","Temp\wqhlp\accueil.htm",,,,,,0x2120,,0x300e,[165,93,990,455],,,,,,,0
+
+
+[FILES]
+Temp\wqhlp\synthese.htm
+Temp\wqhlp\EArrivee.htm
+Temp\wqhlp\ECombinaisons.htm
+Temp\wqhlp\ECommandes.htm
+Temp\wqhlp\EElimination.htm
+Temp\wqhlp\elimination.htm
+Temp\wqhlp\SBases.htm
+Temp\wqhlp\SDate.htm
+Temp\wqhlp\SGeneration.htm
+Temp\wqhlp\SSynthese.htm
+Temp\wqhlp\SSelection.htm
+Temp\wqhlp\accueil.htm
+
+[INFOTYPES]
+
